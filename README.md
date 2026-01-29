@@ -23,12 +23,14 @@ This project demonstrates clean code structure, modular design, validation, erro
 - Structured error handling
 
 ## 📂 Project Structure
+```
 library-management-system/
 ├── library_management_system.exe
 ├── library_management_system.py
 ├── library_books.txt
 ├── README.md
 └── requirements.txt
+```
 
 ## ▶️ How to Run
 ```bash
